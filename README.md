@@ -10,5 +10,5 @@
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon5.PNG?raw=true)
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon6.PNG?raw=true)
 
-> .[!NOTE]
+> [!NOTE]
 > To run this project the XAMPP aplication is required.
