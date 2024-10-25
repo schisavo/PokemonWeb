@@ -7,7 +7,8 @@
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon2.PNG?raw=true)
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon3.PNG?raw=true)
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon4.PNG?raw=true)
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon5.PNG?raw=true)
+![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon6.PNG?raw=true)
+
+> .[!NOTE]
+> To run this project the XAMPP aplication is required.
