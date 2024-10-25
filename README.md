@@ -8,6 +8,8 @@
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon3.PNG?raw=true)
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon4.PNG?raw=true)
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon5.PNG?raw=true)
+![image alt](https://github.com/schisavo/PokemonWeb/blob/main/passwordEmail1.jpeg?raw=true)
+![image alt](https://github.com/schisavo/PokemonWeb/blob/main/passwordEmail2.jpeg?raw=true)
 ![image alt](https://github.com/schisavo/PokemonWeb/blob/main/pokemon6.PNG?raw=true)
 
 > [!NOTE]
